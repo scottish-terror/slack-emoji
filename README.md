@@ -4,6 +4,14 @@ Master stash of slack ready emojis
 Use this as a bulk uploader into slack
 https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej
 
-Additional Contributions welcome, Fork->Branch->Update->Pull Request
+### Contribute!
+Remember 
+* All images must be gif/png/jpg
+* All Images must be 128x128 MAX size
+* The filename is what the bulk uploader will use for the Slack :: name, so please name wisely!
+* Do not upload duplicate file names
+* Make sure the name you use is not a resereved emoji name inside slack.  IE upload your emoji to slack before putting it in the REPO
 
-Please keep not safe for work emoji in the `NSFW` directory and out of the main rate PG-13 directory `emoji`
+Additional Contributions are welcome, Fork->Branch->Update->Pull Request.  
+
+__Please keep not safe for work emoji in the `NSFW` directory and out of the main rate PG-13 directory `emoji`__

@@ -15,4 +15,3 @@ Remember
 Additional Contributions are welcome, Fork->Branch->Update->Pull Request.  
 Or ask for collaborator access 
 
-__Please keep not safe for work emoji in the `NSFW` directory and out of the main rate PG-13 directory `emoji`__

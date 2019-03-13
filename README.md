@@ -1,8 +1,10 @@
 # slack-emoji
 Master stash of slack ready emojis
 
-Use this as a bulk uploader into slack
-https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej
+The chrome extension bulk uploader (slack-emoji-tools) no longer works with slack.  But there's a new way that works better.  Also allows you to sync server emojis across servers, etc.
+
+I put together this program to make using the new tools even faster/easier.   Find all the details about bulk uploading at this README.md 
+https://github.com/srv1054/emoji-dumper
 
 ### Contribute!
 Remember 

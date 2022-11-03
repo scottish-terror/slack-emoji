@@ -1,1 +1,0 @@
-# Not Safe For Work style Emoji's only
